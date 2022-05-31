@@ -1,2 +1,2 @@
 # my-money-app
- expense management app
+ expense management app seima
